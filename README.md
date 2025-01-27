@@ -1,4 +1,4 @@
-[🇺🇸English](https://github.com/MKultra6969/steam_achievements_downloader/blob/main/README.ENG.md)
+[🇺🇸English](https://github.com/MKultra6969/Steam-Achievements-downloader/blob/main/README.ENG.md)
 
 # **Steam Achievements Downloader (S.A.D.😓)** 
 ![pic](https://github.com/user-attachments/assets/14aad32c-5c15-4501-b70b-0c065a507edc)
